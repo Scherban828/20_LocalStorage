@@ -1,0 +1,8 @@
+body{
+    background-color: #284488;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.form__text__input{
+    margin: 20px;
+}
